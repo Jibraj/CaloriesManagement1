@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoodToNutrition</string>
+    <string-array name="genderOption">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
